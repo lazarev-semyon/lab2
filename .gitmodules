@@ -1,0 +1,3 @@
+[submodule "vk_api"]
+	path = vk_api
+	url = https://github.com/python273/vk_api.git
